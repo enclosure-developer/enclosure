@@ -8,6 +8,6 @@
 
 这个repository是后来才传的。
 
-![demo](README.assets\demo.jpg)![award](README.assets\award.jpg)
+![demo](README.assets/demo.jpg)![award](README.assets/award.jpg)
 
 **（demo图片和award图片在README.assets文件夹下）**
